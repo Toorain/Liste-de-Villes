@@ -11,12 +11,17 @@ html
 	background-size: 100%;
 }
 
+a, p
+{	
+	/*margin: 4px;
+	padding: 10px 0;*/
+}
+
 #ten-results
 {
-	line-height: 40px;
-	font-size: 20px;
 	border-radius: 30px;
 	background-color: rgba(210, 215, 211, 0.7);
+	font-size: 18px;
 	width: 350px;
 	margin: auto;
 }
@@ -24,4 +29,11 @@ html
 #champ-input
 {
 	text-align: center;
+}
+
+a:link {
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+    text-decoration: none;
 }
