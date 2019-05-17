@@ -1,0 +1,27 @@
+section
+{
+	width : 50%;
+	margin : auto;
+	text-align: center;
+}
+
+html
+{
+	background: url("img/amsterdam.jpg") no-repeat;
+	background-size: 100%;
+}
+
+#ten-results
+{
+	line-height: 40px;
+	font-size: 20px;
+	border-radius: 30px;
+	background-color: rgba(210, 215, 211, 0.7);
+	width: 350px;
+	margin: auto;
+}
+
+#champ-input
+{
+	text-align: center;
+}
